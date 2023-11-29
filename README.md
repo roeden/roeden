@@ -2,7 +2,7 @@
 - 👀 I'm fascinated with technology and how it functions.
 - 🌱 I’m currently learning more on Front-end development then soon become a full stack developer
 - 💞️ I'm eager to collaborate with those with or without experience in order to share knowledge and expertise with everyone.
-- 📫 How to reach me @ roedenalfonso@gmail.com 
+- 📫 How to ping me: roedenalfonso@gmail.com roedenalfonso@yahoo.com
 
 <!---
 roeden/roeden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
