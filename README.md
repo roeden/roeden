@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @roeden I'm ROD, a tech person who is always looking for new things to help me enhance my skill set, particularly in my IT career field.👨‍💻
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @roeden I'm ROD, a full time tech person who is always looking for new things to help me enhance my skill set, particularly in my IT career field.👨‍💻
+- 👀 I’m interested in all about technology stuffs
 - 🌱 I’m currently learning more on Front-end development then soon become a full stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me roedenlafonso@gmail.com 
